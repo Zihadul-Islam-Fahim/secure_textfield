@@ -1,16 +1,7 @@
-# test_work
+In Fluttur TextFromField, if you set its input hide property 'obscureText:true' then it shows character one unit of time then it will hide, but in this repo in tries to hide the input character immediately.
 
-A new Flutter project.
+<p align="start">
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  <video alt="Light" src="https://github.com/Zihadul-Islam-Fahim/secure_textfield/assets/82943440/ce378989-d89e-402f-b707-e35bc65ee2e9" width="17%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+</p>
